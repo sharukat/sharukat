@@ -1,9 +1,9 @@
-# Hi there, I'm Sharuka Thirimanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Sharuka Thirimanne
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharuka-thirimanne)](https://www.linkedin.com/in/sharuka-thirimanne)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharukat@gmail.com)](mailto:sharukat@gmail.com)
               
-I am an engineering graduate with a bachelor’s degree focused on Electronics and Telecommunication and currently employed as a software engineering trainee at Tryonics (Pvt) Ltd., Sri Lanka.I have proven history of successful work in machine learning and software development with hands-on and research experiences. 
+I am an engineering graduate with a bachelor’s degree focused on Electronics and Telecommunication and currently employed as a software engineer at Tryonics (Pvt) Ltd., Sri Lanka.I have proven history of successful work in machine learning and software development with hands-on and research experiences. 
 
 I am interested in research and development, and keen to become proficient in emerging technologies in Software Engineering, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI) and Computer Vision.
 
