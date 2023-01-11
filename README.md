@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharuka-thirimanne)](https://www.linkedin.com/in/sharuka-thirimanne)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharukat@gmail.com)](mailto:sharukat@gmail.com)
               
-I am an engineering graduate with a bachelor’s degree focused on Electronics and Telecommunication and currently employed as a software engineer at Tryonics (Pvt) Ltd., Sri Lanka.I have proven history of successful work in machine learning and software development with hands-on and research experiences. 
+A graduate student who is currently pursuing an M.Sc. Computer Science at York University, Canada. Former software engineer at Tryonics (Pvt) Ltd., Sri Lanka with +1 years of experience. I have proven history of successful work in Machine Learning (ML), Deep Learning (DL) and Software Engineering with hands-on and research & development (R&D) experiences. 
 
-I am interested in research and development, and keen to become proficient in emerging technologies in Software Engineering, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI) and Computer Vision.
+I am keen to become proficient in emerging technologies in Software Engineering, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI) and Computer Vision.
 
 **Programming Languages:**  
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
