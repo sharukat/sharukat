@@ -5,13 +5,11 @@
               
 Results-driven software engineer and graduate student with comprehensive knowledge and practical experience in software engineering, machine learning, and data science, acquired through active engagement in both industry and academic projects. Notable achievements include receiving a merit-based full scholarship in recognition of academic excellence, highlighting my goal-oriented work ethic and dedication to delivering outstanding results. Moreover, active participation in extracurricular activities, coupled with leadership responsibilities, alongside academic pursuits, was acknowledged with the prestigious Eng. Ranjith Rubasinghe University Award for Excellence in both academics and extracurriculars.
 
-**Programming Languages:**  
+**Programming Languages & Relational Databases:**  
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-
-**Relational Databases:**
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
