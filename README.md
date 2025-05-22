@@ -42,7 +42,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=sharukat&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sharukat&color=blueviolet&style=for-the-badge)
 
 
 
