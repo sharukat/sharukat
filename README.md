@@ -5,8 +5,10 @@
 <p align="center">
   I specialize in building full-stack solutions with seamless integration of Artificial Intelligence (AI) and Machine Learning (ML) to deliver intelligent, user-focused experiences.
 </p>
-              
-Results-driven software engineer and graduate student with comprehensive knowledge and practical experience in software engineering, machine learning, and data science, acquired through active engagement in both industry and academic projects. Notable achievements include receiving a merit-based full scholarship in recognition of academic excellence, highlighting my goal-oriented work ethic and dedication to delivering outstanding results. Moreover, active participation in extracurricular activities, coupled with leadership responsibilities, alongside academic pursuits, was acknowledged with the prestigious Eng. Ranjith Rubasinghe University Award for Excellence in both academics and extracurriculars.
+
+- 🐍 Python has been my primary language for 4+ years, but lately, I’ve fallen in love with the speed and simplicity of Go 🚀.
+- 💻 I craft sleek, performant frontends with Next.js, and I’m a big fan of TypeScript’s type safety 🔐 — clean code is happy code!
+- 🤖 I specialize in training and fine-tuning ML models, and I love integrating the power of LLMs to build intelligent, AI-driven applications 🧠.
 
 <p align="center">
   🚀 Check out my <a href="https://sharukat.vercel.app" target="_blank"><b>portfolio</b></a> to learn more about my tech stack and projects!
@@ -17,7 +19,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=golang,python,typescript,java,mongodb,postgresql,mysql,redis"
+      src="https://go-skill-icons.vercel.app/api/icons?i=golang,python,typescript,java,mongodb,postgresql,redis"
     />
   </a>
 </p>
@@ -26,7 +28,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,fastapi,django,flask,nextjs,tailwindcss,docker,githubactions"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,fastapi,django,flask,nextjs,docker,githubactions"
     />
   </a>
 </p>
@@ -35,7 +37,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,qdrant,scikitlearn,pandas,numpy"
+      src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,scikitlearn,pandas,numpy"
     />
   </a>
 </p>
