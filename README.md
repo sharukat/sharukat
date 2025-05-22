@@ -6,8 +6,6 @@
   I specialize in building full-stack solutions with seamless integration of Artificial Intelligence (AI) and Machine Learning (ML) to deliver intelligent, user-focused experiences.
 </p>
 
-![](https://komarev.com/ghpvc/?username=sharukat&color=blue&style=plastic)
-
 - 🐍 Python has been my primary language for 4+ years, but lately, I’ve fallen in love with the speed and simplicity of Go 🚀.
 - 💻 I craft sleek, performant frontends with Next.js, and I’m a big fan of TypeScript’s type safety 🔐 — clean code is happy code!
 - 🤖 I specialize in training and fine-tuning ML models, and I love integrating the power of LLMs to build intelligent, AI-driven applications.
@@ -43,6 +41,8 @@
     />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=sharukat&color=blue&style=for-the-badge)
 
 
 
