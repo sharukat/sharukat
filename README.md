@@ -9,8 +9,8 @@ Results-driven software engineer and graduate student with comprehensive knowled
 </p>
 
 
+### Programming Languages and Databases
 <p align="center">
-  <h3>Programming Languages and Databases</h3>
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=golang,python,typescript,java,mongodb,postgresql,mysql,redis"
@@ -18,9 +18,24 @@ Results-driven software engineer and graduate student with comprehensive knowled
   </a>
 </p>
 
+### Libraries, Frameworks and DevOps Tools
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,fastapi,django,flask,nextjs,tailwindcss,docker,githubactions"
+    />
+  </a>
+</p>
 
-### Other Tools
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
+### Machine Learning and Artificial Intelligence
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,qdrant,scikitlearn,pandas,numpy"
+    />
+  </a>
+</p>
+
 
 
 
