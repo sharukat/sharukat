@@ -8,8 +8,16 @@ Results-driven software engineer and graduate student with comprehensive knowled
   🚀 Check out my <a href="https://sharukat.vercel.app" target="_blank"><b>portfolio</b></a> to learn more about my tech stack and projects!
 </p>
 
-### Programming Languages and Databases
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
+
+<p align="center">
+  <h3>Programming Languages and Databases</h3>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=golang,python,typescript,java,mongodb,postgresql,mysql,redis"
+    />
+  </a>
+</p>
+
 
 ### Other Tools
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png"> &nbsp;&nbsp;&nbsp;<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
