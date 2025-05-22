@@ -12,10 +12,9 @@
 
 <p align="center">
   🚀 Check out my <a href="https://sharukat.vercel.app" target="_blank"><b>portfolio</b></a> to learn more about my tech stack and projects!
-
-  I’m actively seeking opportunities in full-stack development, AI/ML application development, or related roles, preferably working with Go, Python or Typescript. If you're hiring, let's chat!
 </p>
 
+> I’m actively seeking opportunities in full-stack development, AI/ML application development, or related roles, preferably working with Go, Python or Typescript. If you're hiring, let's chat!
 
 ### Programming Languages and Databases
 <p align="left">
