@@ -10,7 +10,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 
 
 ### Programming Languages and Databases
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=golang,python,typescript,java,mongodb,postgresql,mysql,redis"
@@ -19,7 +19,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 </p>
 
 ### Libraries, Frameworks and DevOps Tools
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=git,fastapi,django,flask,nextjs,tailwindcss,docker,githubactions"
@@ -28,7 +28,7 @@ Results-driven software engineer and graduate student with comprehensive knowled
 </p>
 
 ### Machine Learning and Artificial Intelligence
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,qdrant,scikitlearn,pandas,numpy"
