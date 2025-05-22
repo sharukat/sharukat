@@ -8,7 +8,7 @@
 
 - 🐍 Python has been my primary language for 4+ years, but lately, I’ve fallen in love with the speed and simplicity of Go 🚀.
 - 💻 I craft sleek, performant frontends with Next.js, and I’m a big fan of TypeScript’s type safety 🔐 — clean code is happy code!
-- 🤖 I specialize in training and fine-tuning ML models, and I love integrating the power of LLMs to build intelligent, AI-driven applications 🧠.
+- 🤖 I specialize in training and fine-tuning ML models, and I love integrating the power of LLMs to build intelligent, AI-driven applications.
 
 <p align="center">
   🚀 Check out my <a href="https://sharukat.vercel.app" target="_blank"><b>portfolio</b></a> to learn more about my tech stack and projects!
