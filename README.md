@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Hi there 👋, I'm Sharuka Thirimanne</h1>
 </div>
-![githubbanner](https://drive.google.com/uc?id=1OxWHVitydmZoS8mQf7v7MM1rexV227DI)
+
+![githubbanner](https://github.com/user-attachments/assets/70855b0d-a56f-4986-bbd7-1bf0a8183e27)
 
 
 <p align="center">
