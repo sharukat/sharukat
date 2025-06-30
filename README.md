@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Hi there 👋, I'm Sharuka Thirimanne</h1>
 </div>
-![github-banner](https://github.com/user-attachments/assets/116e366a-1757-44a3-a40d-290de83aa151)
+![githubbanner](https://github.com/user-attachments/assets/c57b345b-0f7e-460a-8b2b-cca25d405fe1.jpg)
+
 
 <p align="center">
   I specialize in building full-stack solutions with seamless integration of Artificial Intelligence (AI) and Machine Learning (ML) to deliver intelligent, user-focused experiences.
